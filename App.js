@@ -18,7 +18,7 @@ class App extends Component {
 
     // Ignore all log notifications:
     // LogBox.ignoreAllLogs();
-    ////new add
+    ////new add1
   }
 
   render() { 
